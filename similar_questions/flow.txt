@@ -1,0 +1,9 @@
+User Question
+   ↓
+Query embedding
+   ↓
+Search QA embeddings ONLY
+   ↓
+Group by qid
+   ↓
+Return questions

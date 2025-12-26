@@ -1,0 +1,13 @@
+User Question
+   ↓
+Query embedding
+   ↓
+Search chunk embeddings (top K1)
+   ↓
+Search QA embeddings (top K2)
+   ↓
+Merge + dedup
+   ↓
+Select top N answer chunks
+   ↓
+LLM answer

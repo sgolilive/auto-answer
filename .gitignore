@@ -1,0 +1,11 @@
+/chroma_store/
+/faiss_chunks.index
+
+/__pycache__/
+/answer/__pycache__/
+/ingestion/__pycache__/
+/similar_questions/__pycache__/
+
+.DS_Store
+
+/.idea/

@@ -24,7 +24,6 @@ def search_similar_question():
     for q in state.qid_scores:
         print(f'id: {q["qid"]}, question:{q['question']} , confidence: {q["confidence"]}')
 
-    pass
 
 if __name__ == '__main__':
     search_similar_question()
